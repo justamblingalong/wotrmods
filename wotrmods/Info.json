@@ -1,0 +1,13 @@
+{
+	"Id": "wotrmods",
+	"DisplayName": "wotrmods",
+	"Author": "justamblingalong",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.3",
+	"Requirements": [],
+	"AssemblyName": "wotrmods.dll",
+	"EntryMethod": "wotrmods.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/justamblingalong/wotrmods/main/wotrmods/Repository.json",
+	"HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/##"
+}
+
